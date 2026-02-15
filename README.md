@@ -45,9 +45,13 @@ The project includes:
 Open terminal inside the project folder and run:
 
 python step4_mlp_train.py
+
 python step4_mlp_tuning.py
+
 python step5_autoencoder.py
+
 python step6_autoencoder_outlier.py
+
 
 ---
 
